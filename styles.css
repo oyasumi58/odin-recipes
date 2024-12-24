@@ -1,0 +1,32 @@
+body {   
+    background: #ececec;
+    text-align: center;
+    font-family: Georgia, "Times New Roman", sans-serif;
+}
+* {
+    border: 1px solid red;
+}
+.titles {
+    font-size: 100px;
+    color:#6f4189;
+    background-color: #94e5d1;
+}
+.recipes-main {
+    font-size: 50px;
+    display: inline-block;
+    background-color: rgb(225, 162, 162);
+}
+
+img, .lasagna-image {
+    margin-right: 40px;
+    padding: 10px;
+    position: relative;
+    right: 240px
+}
+.lasagna-list {
+    display: inline-block;
+}
+.lasanga-description {
+    display:inline-block;
+    margin
+}
